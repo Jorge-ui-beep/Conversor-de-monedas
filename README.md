@@ -26,10 +26,3 @@ Los valores de conversión se obtienen mediante la API de [ExchangeRate-API](htt
 - Librerías externas: `org.json`
 
 ---
-
-## 🚀 Cómo ejecutar el programa
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/Jorge-ui-beep/Conversor-de-monedas.git
